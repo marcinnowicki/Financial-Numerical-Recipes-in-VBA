@@ -1,4 +1,4 @@
-# Financial-Numerical-Recipes-in-VBA
+# Financial Numerical Recipes in VBA
 Translation of C++ algorithms to VBA
 
 Original text by Mr Odegaard you may find here: 
